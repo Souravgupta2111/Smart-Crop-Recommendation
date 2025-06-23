@@ -1,2 +1,2 @@
-streamlit run "Source code.py"
+streamlit run "smartagriculture.py"
 pause
